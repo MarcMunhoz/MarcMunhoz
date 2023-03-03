@@ -4,5 +4,16 @@
 - :smiley: Pronouns: he/him
 - :mailbox: How to reach me: [Marcelo Munhoz](https://marcelomunhoz.com)
 
-JS array methods cheat:
-![hamburguer array methods](https://media.licdn.com/dms/image/C5622AQH4upb5UeorBQ/feedshare-shrink_1280/0/1673264086098?e=1676505600&v=beta&t=GRNu5mFntrBzHZ1exkouBks9cHvvshFage4mJ-1NWhU)
+## Skills
+
+<section>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" height="30" width="40" />
+</section>
