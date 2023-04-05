@@ -5,7 +5,7 @@
 - :smiley: Pronouns: he/him
 - :mailbox: How to reach me: [Marcelo Munhoz](https://marcelomunhoz.com)
 
-## I'm do...
+## I'm comfortable with...
 
 <section>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40" />
