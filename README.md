@@ -1,7 +1,7 @@
 # Hey, I'm Marcelo Munhoz. :metal:
 
 - <img src="https://upload.wikimedia.org/wikipedia/sco/5/56/Real_Madrid_CF.svg" width="20" /> ¡Hala Madrid y nada más!
-- :computer: I'm a Staff web developer on [Amcham Brasil](https://www.amcham.com.br) based in Brazil
+- :computer: I'm a web developer on [Amcham Brasil](https://www.amcham.com.br) based in Brazil
 - :smiley: Pronouns: he/him
 - :mailbox: How to reach me: [Marcelo Munhoz](https://marcelomunhoz.com)
 
