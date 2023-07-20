@@ -10,19 +10,19 @@
 ## I'm comfortable with...
 
 <section>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" height="30" width="40" />
+  <a href="https://html.spec.whatwg.org" target="_blank" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40" /></a>
+  <a href="https://www.w3.org/Style/CSS" target="_blank" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="40" /></a>
+  <a href="https://lesscss.org" target="_blank" title="less"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" height="30" width="40" /></a>
+  <a href="https://sass-lang.com" target="_blank" title="Sass"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30" width="40" /></a>
+  <a href="https://tailwindcss.com" target="_blank" title="Tailwind CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="40" /></a>
+  <a href="https://www.linux.org" target="_blank" title="GNU/Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" width="40" /></a>
+  <a href="https://www.docker.com" target="_blank" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="30" width="40" /></a>
+  <a href="https://nodejs.org" target="_blank" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" width="40" /></a>
+  <a href="https://vuejs.org" target="_blank" title="Vue.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" width="40" /></a>
+  <a href="https://nuxt.com" target="_blank" title="Nuxt"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" height="30" width="40" /></a>
+  <a href="https://yarnpkg.com" target="_blank" title="yarn"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" height="30" width="40" /></a>
+  <a href="https://git-scm.com" target="_blank" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" width="40" /></a>
+  <a href="https://www.gimp.org" target="_blank" title="GIMP"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" height="30" width="40" /></a>
+  <a href="https://www.markdownguide.org" target="_blank" title="Markdown"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" height="30" width="40" /></a>
 </section>
