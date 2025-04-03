@@ -1,6 +1,6 @@
 # Hey, I'm Marcelo Munhoz 👽 :metal:
 
-- :computer: I'm a web developer on [Amcham Brasil](https://www.amcham.com.br) based in Brazil
+- :computer: I'm a web developer
 - I'm Rock/Blues/Goth/MPB/Jazz 🎸🎷🎵
 - ¡Hala <img src="https://upload.wikimedia.org/wikipedia/sco/5/56/Real_Madrid_CF.svg" width="20" /> y nada más!
 - 🌎🪐The answer to the ultimate question of life, the universe, and everything is... 42. 🚀
