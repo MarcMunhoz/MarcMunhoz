@@ -1,7 +1,7 @@
 # Hey, I'm Marcelo Munhoz 👽 :metal:
 
 - :computer: I'm a web developer
-- I'm Rock/Blues/Goth/MPB/Jazz 🎸🎷🎵
+- 🎸🎷🎵 I'm Rock/Blues/Goth/MPB/Jazz
 - ¡Hala <img src="https://upload.wikimedia.org/wikipedia/sco/5/56/Real_Madrid_CF.svg" width="20" /> y nada más!
 - 🌎🪐The answer to the ultimate question of life, the universe, and everything is... 42. 🚀
 - :smiley: Pronouns: he/him
