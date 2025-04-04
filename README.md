@@ -9,7 +9,7 @@
 - 👋 May the 4th be with you!!!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcMunhoz&show_icons=true&theme=shadow_red" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcMunhoz&show_icons=true&theme=shadow_red&cache_seconds=10" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcMunhoz&layout=compact&theme=shadow_red" />
 </p>
