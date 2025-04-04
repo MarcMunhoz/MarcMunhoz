@@ -8,7 +8,11 @@
 - :mailbox: How to reach me: [Marcelo Munhoz](https://marcelomunhoz.com)
 - 👋 May the 4th be with you!!!
 
-![](https://github-readme-stats.vercel.app/api?username=MarcMunhoz&show_icons=true&theme=shadow_red)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcMunhoz&show_icons=true&theme=shadow_red" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcMunhoz&layout=compact&theme=shadow_red" />
+</p>
 
 ## I'm comfortable with...
 
