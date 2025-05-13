@@ -23,21 +23,21 @@
 ## I'm comfortable with...
 
 <section>
-  <a href="https://www.w3.org/Style/CSS" target="_blank" title="CSS3"><img src="https://raw.githubusercontent.com/MarcMunhoz/devicon/master/icons/css3/css3-original.svg?no_cache" height="30" width="40" /></a>
-  <a href="https://www.docker.com" target="_blank" title="Docker"><img src="https://raw.githubusercontent.com/MarcMunhoz/devicon/master/icons/docker/docker-original.svg?no_cache" height="30" width="40" /></a>
-  <a href="https://www.gimp.org" target="_blank" title="GIMP"><img src="https://raw.githubusercontent.com/MarcMunhoz/devicon/master/icons/gimp/gimp-original.svg?no_cache" height="30" width="40" /></a>
-  <a href="https://www.linux.org" target="_blank" title="GNU/Linux"><img src="https://raw.githubusercontent.com/MarcMunhoz/devicon/master/icons/linux/linux-original.svg?no_cache" height="30" width="40" /></a>
-  <a href="https://git-scm.com" target="_blank" title="Git"><img src="https://raw.githubusercontent.com/MarcMunhoz/devicon/master/icons/git/git-original.svg?no_cache" height="30" width="40" /></a>
-  <a href="https://html.spec.whatwg.org" target="_blank" title="HTML5"><img src="https://raw.githubusercontent.com/MarcMunhoz/devicon/refs/heads/master/icons/html5/html5-original.svg?no_cache" height="30" width="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://raw.githubusercontent.com/MarcMunhoz/devicon/refs/heads/master/icons/javascript/javascript-original.svg?no_cache" height="30" width="40" /></a>
-  <a href="https://lesscss.org" target="_blank" title="less"><img src="https://raw.githubusercontent.com/MarcMunhoz/devicon/refs/heads/master/icons/less/less-plain-wordmark.svg?no_cache" height="30" width="40" /></a>
-  <a href="https://www.markdownguide.org" target="_blank" title="Markdown"><img src="https://raw.githubusercontent.com/MarcMunhoz/devicon/master/icons/markdown/markdown-original.svg?no_cache" height="30" width="40" /></a>
-  <a href="https://www.netlify.com" target="_blank" title="Netlify"><img src="https://raw.githubusercontent.com/MarcMunhoz/devicon/refs/heads/master/icons/netlify/netlify-original.svg?no_cache" height="30" width="40" /></a>
-  <a href="https://nodejs.org" target="_blank" title="Node.js"><img src="https://raw.githubusercontent.com/MarcMunhoz/devicon/master/icons/nodejs/nodejs-original.svg?no_cache" height="30" width="40" /></a>
-  <a href="https://nuxt.com" target="_blank" title="Nuxt"><img src="https://raw.githubusercontent.com/MarcMunhoz/devicon/refs/heads/master/icons/nuxtjs/nuxtjs-original.svg?no_cache" height="30" width="40" /></a>
-  <a href="https://sass-lang.com" target="_blank" title="Sass"><img src="https://raw.githubusercontent.com/MarcMunhoz/devicon/refs/heads/master/icons/sass/sass-original.svg?no_cache" height="30" width="40" /></a>
-  <a href="https://tailwindcss.com" target="_blank" title="Tailwind CSS"><img src="https://raw.githubusercontent.com/MarcMunhoz/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg?no_cache" height="30" width="40" /></a>
-  <a href="https://vuejs.org" target="_blank" title="Vue.js"><img src="https://raw.githubusercontent.com/MarcMunhoz/devicon/refs/heads/master/icons/vuejs/vuejs-original-wordmark.svg?no_cache" height="30" width="40" /></a>
-  <a href="https://wordpress.com" target="_blank" title="Wordpress"><img src="https://raw.githubusercontent.com/MarcMunhoz/devicon/refs/heads/master/icons/wordpress/wordpress-original.svg?no_cache" height="30" width="40" /></a>
-  <a href="https://yarnpkg.com" target="_blank" title="yarn"><img src="https://raw.githubusercontent.com/MarcMunhoz/devicon/refs/heads/master/icons/yarn/yarn-original.svg?no_cache" height="30" width="40" /></a>
+  <a href="https://www.w3.org/Style/CSS" target="_blank" title="CSS3" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40" /></a>
+  <a href="https://www.docker.com" target="_blank" title="Docker" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="40" /></a>
+  <a href="https://www.gimp.org" target="_blank" title="GIMP" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" width="40" /></a>
+  <a href="https://www.linux.org" target="_blank" title="GNU/Linux" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="40" /></a>
+  <a href="https://git-scm.com" target="_blank" title="Git" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="40" /></a>
+  <a href="https://html.spec.whatwg.org" target="_blank" title="HTML5" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" /></a>
+  <a href="https://lesscss.org" target="_blank" title="Less" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="30" width="40" /></a>
+  <a href="https://www.markdownguide.org" target="_blank" title="Markdown" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" width="40" /></a>
+  <a href="https://www.netlify.com" target="_blank" title="Netlify" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="30" width="40" /></a>
+  <a href="https://nodejs.org" target="_blank" title="Node.js" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40" /></a>
+  <a href="https://nuxt.com" target="_blank" title="Nuxt" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" width="40" /></a>
+  <a href="https://sass-lang.com" target="_blank" title="Sass" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="40" /></a>
+  <a href="https://tailwindcss.com" target="_blank" title="Tailwind CSS" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" width="40" /></a>
+  <a href="https://vuejs.org" target="_blank" title="Vue.js" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="30" width="40" /></a>
+  <a href="https://wordpress.com" target="_blank" title="WordPress" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" width="40" /></a>
+  <a href="https://yarnpkg.com" target="_blank" title="Yarn" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" width="40" /></a>
 </section>
