@@ -1,8 +1,14 @@
 # Hey, I'm Marcelo Munhoz 👽 :metal:
 
+<table align="right" border="0">
+  <tr>
+    <td><a href="https://www.corinthians.com.br" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Escudo_sc_corinthians.png/330px-Escudo_sc_corinthians.png" width="30"></a></td>
+    <td><a href="https://www.realmadrid.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/sco/5/56/Real_Madrid_CF.svg" width="30" /></a></td>
+  </tr>
+</table>
+
 - :computer: I'm a web developer
 - 🎸🎷🎵 I'm Rock/Blues/Goth/MPB/Jazz
-- ¡Hala <img src="https://upload.wikimedia.org/wikipedia/sco/5/56/Real_Madrid_CF.svg" width="20" /> y nada más!
 - 🌎🪐The answer to the ultimate question of life, the universe, and everything is... 42. 🚀
 - :smiley: Pronouns: he/him
 - :mailbox: How to reach me: [Marcelo Munhoz](https://marcelomunhoz.com)
