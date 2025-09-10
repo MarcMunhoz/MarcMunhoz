@@ -2,7 +2,7 @@
 
 <table align="right" border="0">
   <tr>
-    <td><a href="https://www.corinthians.com.br" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Escudo_sc_corinthians.png/330px-Escudo_sc_corinthians.png" width="30"></a></td>
+    <td><a href="https://www.corinthians.com.br" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/pt/b/b4/Corinthians_simbolo.png" width="30"></a></td>
     <td><a href="https://www.realmadrid.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/sco/5/56/Real_Madrid_CF.svg" width="30" /></a></td>
   </tr>
 </table>
@@ -30,6 +30,7 @@
   <a href="https://git-scm.com" target="_blank" title="Git" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="40" /></a>
   <a href="https://html.spec.whatwg.org" target="_blank" title="HTML5" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" /></a>
+  <a href="https://www.typescriptlang.org" target="_blank" title="TypeScript" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="40" /></a>
   <a href="https://lesscss.org" target="_blank" title="Less" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="30" width="40" /></a>
   <a href="https://www.markdownguide.org" target="_blank" title="Markdown" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" width="40" /></a>
   <a href="https://www.netlify.com" target="_blank" title="Netlify" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="30" width="40" /></a>
