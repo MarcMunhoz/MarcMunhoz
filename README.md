@@ -20,9 +20,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcMunhoz&layout=compact&theme=shadow_red" />
 </p>
 
-## I'm comfortable with...
-
-<section>
+---
+<section align="center">
   <a href="https://www.w3.org/Style/CSS" target="_blank" title="CSS3" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40" /></a>
   <a href="https://www.docker.com" target="_blank" title="Docker" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="40" /></a>
   <a href="https://www.gimp.org" target="_blank" title="GIMP" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" width="40" /></a>
