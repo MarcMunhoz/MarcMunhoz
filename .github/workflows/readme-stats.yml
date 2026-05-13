@@ -1,0 +1,30 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create stats folder
+        run: mkdir -p assets
+
+      - name: Download stats SVG
+        run: |
+          curl -L "https://github-readme-stats.vercel.app/api?username=meuuser&show_icons=true&theme=shadow_red" \
+          -o assets/github-stats.svg
+
+      - name: Commit SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update GitHub stats"
+          file_pattern: assets/github-stats.svg
