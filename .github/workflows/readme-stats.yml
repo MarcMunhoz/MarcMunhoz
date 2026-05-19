@@ -20,7 +20,7 @@ jobs:
 
       - name: Generate main stats
         run: |
-          curl -L "https://github-readme-stats.vercel.app/api?username=meuuser&show_icons=true&theme=shadow_red" \
+          curl -L "https://streak-stats.demolab.com?user=MarcMunhoz&theme=vue-dark" \
           -o assets/github-stats.svg
 
       - name: Generate top languages
