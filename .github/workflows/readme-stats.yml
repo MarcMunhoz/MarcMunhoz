@@ -38,6 +38,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_indepth: yes # Força uma análise mais profunda dos commits
           plugin_languages_ignored: html, css # Opcional: ignora linguagens que não sejam de programação real
+          plugin_languages_analysis_timeout: 15
           
           # Estilização básica
           config_timezone: America/Sao_Paulo
