@@ -2,6 +2,7 @@ name: Generate GitHub Stats
 
 on:
   schedule:
+    # Roda a cada 12 horas
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
@@ -11,23 +12,40 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v5
+      - name: Checkout repository
+        uses: actions/checkout@v5
 
-      - name: Create assets folder
+      # O Metrics precisa que a pasta exista para salvar o arquivo dentro dela
+       Berk-p assets:
         run: mkdir -p assets
 
-      - name: Generate main stats
+      # 1. Gerar as Top Languages usando a Action Oficial do Metrics
+      - name: Generate top languages (Metrics)
+        uses: lowlighter/metrics@latest
+        with:
+          # Define onde o arquivo final será salvo
+          filename: assets/top-langs.svg
+          
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Configurações para focar APENAS em linguagens (substituindo o github-readme-stats)
+          base: "" # Desativa os blocos padrão (header, info, etc)
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          
+          # Estilização básica
+          config_timezone: America/Sao_Paulo
+
+      # 2. Streak Stats via curl
+      - name: Generate main stats (Streak)
         run: |
-          curl -L "https://streak-stats.demolab.com?user=MarcMunhoz&theme=vue-dark" \
+          curl -L "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=vue-dark" \
           -o assets/github-stats.svg
 
-      - name: Generate top languages
-        run: |
-          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=MarcMunhoz&layout=compact&theme=shadow_red" \
-          -o assets/top-langs.svg
-
+      # 3. Commita as duas imagens geradas de volta para o seu repositório
       - name: Commit updated SVGs
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
