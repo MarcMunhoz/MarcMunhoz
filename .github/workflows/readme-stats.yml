@@ -25,8 +25,10 @@ jobs:
         with:
           # Define onde o arquivo final será salvo
           filename: assets/top-langs.svg
-          
           token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Parâmetros extras para forçar a busca de dados:
+          commits_authoring: MarcMunhoz, MarcMunhoz@users.noreply.github.com
           
           # Configurações para focar APENAS em linguagens (substituindo o github-readme-stats)
           base: "" # Desativa os blocos padrão (header, info, etc)
@@ -34,6 +36,8 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 8
+          plugin_languages_indepth: yes # Força uma análise mais profunda dos commits
+          plugin_languages_ignored: html, css # Opcional: ignora linguagens que não sejam de programação real
           
           # Estilização básica
           config_timezone: America/Sao_Paulo
