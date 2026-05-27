@@ -25,7 +25,7 @@ jobs:
         with:
           # Define onde o arquivo final será salvo
           filename: assets/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Parâmetros extras para forçar a busca de dados:
           commits_authoring: MarcMunhoz, MarcMunhoz@users.noreply.github.com
