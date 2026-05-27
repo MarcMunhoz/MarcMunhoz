@@ -16,8 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # O Metrics precisa que a pasta exista para salvar o arquivo dentro dela
-       Berk-p assets:
+      - name: Create assets folder
         run: mkdir -p assets
 
       # 1. Gerar as Top Languages usando a Action Oficial do Metrics
@@ -45,7 +44,7 @@ jobs:
           curl -L "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=vue-dark" \
           -o assets/github-stats.svg
 
-      # 3. Commita as duas imagens geradas de volta para o seu repositório
+      # 3. Commita as duas imagens geradas de volta para o repositório
       - name: Commit updated SVGs
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
