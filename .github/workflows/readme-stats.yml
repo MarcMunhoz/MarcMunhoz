@@ -25,7 +25,7 @@ jobs:
 
       - name: Generate top languages
         run: |
-          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=meuuser&layout=compact&theme=shadow_red" \
+          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=MarcMunhoz&layout=compact&theme=shadow_red" \
           -o assets/top-langs.svg
 
       - name: Commit updated SVGs
