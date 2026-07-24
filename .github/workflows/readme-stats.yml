@@ -26,9 +26,10 @@ jobs:
           # Define onde o arquivo final será salvo
           filename: assets/top-langs.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: MarcMunhoz
 
-          # Parâmetros extras para forçar a busca de dados:
-          commits_authoring: MarcMunhoz, MarcMunhoz@users.noreply.github.com
+          # Identificadores que aparecem como autor nos commits públicos
+          commits_authoring: MarcMunhoz, Marcelo Munhoz, MarcMunhoz@users.noreply.github.com, me@marcelomunhoz.com
           
           # Configurações para focar APENAS em linguagens (substituindo o github-readme-stats)
           base: "" # Desativa os blocos padrão (header, info, etc)
